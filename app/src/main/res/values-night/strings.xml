@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">GoingNow</string>
     <string name="auth_title">Welcome back</string>
     <string name="auth_subtitle">Please sign in to continue</string>
 </resources>
